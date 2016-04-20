@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1454144677 source:d:\dfyyc\src\bomb.cpp
+	"common.h"
+	"bomb.h"
+
+1454153475 source:d:\dfyyc\src\bullet.cpp
+	"common.h"
+	"bullet.h"
+
+1454163374 source:d:\dfyyc\src\game.cpp
+	"common.h"
+	"bullet.h"
+	"plane.h"
+	"bomb.h"
+
+1454054949 source:d:\dfyyc\src\item.cpp
+	"common.h"
+
+1454145001 source:d:\dfyyc\src\main.cpp
+	"common.h"
+
+1453606955 source:d:\dfyyc\src\move.cpp
+	"common.h"
+
+1454053392 source:d:\dfyyc\src\msg.cpp
+	"common.h"
+
+1454162949 source:d:\dfyyc\src\plane.cpp
+	"common.h"
+	"bullet.h"
+	"plane.h"
+	"item.h"
+
+1454163379 source:d:\dfyyc\src\player.cpp
+	"common.h"
+	"bullet.h"
+	"item.h"
+
+1454165471 source:d:\dfyyc\src\res.cpp
+	"common.h"
+
+1454144677 source:f:\application\game\源码\src\bomb.cpp
+	"common.h"
+	"bomb.h"
+
+1454226002 source:f:\application\game\源码\src\bullet.cpp
+	"common.h"
+	"bullet.h"
+
+1454300020 source:f:\application\game\源码\src\game.cpp
+	"common.h"
+	"bullet.h"
+	"plane.h"
+	"bomb.h"
+
+1454054949 source:f:\application\game\源码\src\item.cpp
+	"common.h"
+
+1454243336 source:f:\application\game\源码\src\main.cpp
+	"common.h"
+
+1454053392 source:f:\application\game\源码\src\msg.cpp
+	"common.h"
+
+1454240685 source:f:\application\game\源码\src\plane.cpp
+	"common.h"
+	"bullet.h"
+	"plane.h"
+	"item.h"
+
+1454244897 source:f:\application\game\源码\src\player.cpp
+	"common.h"
+	"bullet.h"
+	"item.h"
+
+1454231340 source:f:\application\game\源码\src\plot.cpp
+	"common.h"
+	"bullet.h"
+	"plane.h"
+	"plot.h"
+
+1454215948 source:f:\application\game\源码\src\resource\font.cpp
+	"common.h"
+
+1454299809 source:f:\application\game\源码\src\resource\res.cpp
+	"common.h"
+
+1454221205 source:f:\application\game\源码\src\resource\video.cpp
+	"common.h"
+	"stdarg.h"
+
+1454299440 source:f:\application\game\源码\src\xbullets.cpp
+	"common.h"
+
